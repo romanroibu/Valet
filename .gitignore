@@ -16,3 +16,8 @@ profile
 *.moved-aside
 DerivedData
 .idea/
+*xcshareddata
+
+# Gems
+.bundle
+Gemfile.lock
